@@ -1,0 +1,18 @@
+#  设置服务名
+spring:
+  application:
+    name: service-ribbon
+    
+server:
+  port: 8082
+#  设置注册中心地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:3333/eureka
+management:      
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+      base-path: /      
