@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cloudclient1/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudserver/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudclient2/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/sericefeign/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceRibbon/pom.xml" />
+        <option value="$PROJECT_DIR$/servicezuul/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
