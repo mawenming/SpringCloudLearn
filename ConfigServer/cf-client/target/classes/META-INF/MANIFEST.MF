@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: cf-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JUSFOUN
+Implementation-Vendor-Id: cfclient
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
